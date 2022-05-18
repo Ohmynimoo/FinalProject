@@ -1,4 +1,4 @@
-# FinalProject
+# FinalProject (EnrollmentSystem)
 
 The EnrollmentSytem Contains:
 * Account Class ("Register")
@@ -8,8 +8,13 @@ The EnrollmentSytem Contains:
 * Requirements Class ("Required to submit in order to Enroll the user")
 
 
-We Separate the project file of Account Class ("Register") & User Class ("Login") since the codes of these two classes should have a database in the Mysql with XAMMP
+The Project file of Account Class ("Register") & User Class ("Login") is separated to the other classes since the codes of Account and User Class should have their own database in the Mysql with XAMMP application. Therefore the remaining three classes have also another Project file. The purpose of separating the codes of the first two classes is for instance that you've successfully registered and login into the system, if you run the Main code of the project file of the remaining three classes with their codes you will eventually access the system as a user.
 
-## Apps that has been use in the project
-(XAMMP)(https://www.apachefriends.org/index.html)
-(Connector)(https://dev.mysql.com/downloads/connector/j/)
+
+## Apps that has been used in this project:
+
+[XAMMP](https://www.apachefriends.org/index.html)
+
+[MysqlConnector](https://dev.mysql.com/downloads/connector/j/)
+
+(Intellij IDEA Community Edition)
