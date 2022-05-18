@@ -18,3 +18,11 @@ The Project file of Account Class ("Register") & User Class ("Login") is separat
 [MysqlConnector](https://dev.mysql.com/downloads/connector/j/)
 
 (Intellij IDEA Community Edition)
+
+
+## Authors
+
+* Jiron Niemo
+* Mariseph Frades
+* Chezka Banania
+* Ashlyn Galarosa
