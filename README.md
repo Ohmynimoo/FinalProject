@@ -1,5 +1,7 @@
 # FinalProject (Simple EnrollmentSystem with GUI Forms)
 
+This System shows how to enroll the user in a simple way however, the user needs to register and login to the system so that the user will easily access the enrollment system.
+
 The Project file of Account Class ("Register") & User Class ("Login") is separated to the other classes since the codes of Account and User Class should have their own database in the Mysql with XAMMP application. Therefore the remaining three classes have also another Project file. The purpose of separating the codes of the first two classes is for instance that you've successfully registered and login into the system, if you run the Main code of the project file of the remaining three classes with their codes you will eventually access the system as a user.
 
 
